@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=02297e&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=49A9B7&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Thalis+Zambarda;I'm+23+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=49A9B7&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Thalis+Zambarda;I'm+23+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=trelcray&show_icons=true&count_private=true&hide_border=true&title_color=49a9b7&icon_color=49a9b7&text_color=fff&bg_color=0d1117" alt="Thalis Zambarda github stats" /> 
@@ -9,7 +9,7 @@
 <br/>
 <br/>
 <p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=trelcray&theme=tokyonight_duo&border_radius=5)](https://git.io/streak-stats)
+  <img width="49%" height="195px" src="https://streak-stats.demolab.com/?user=trelcray&theme=github-dark-blue&hide_border=true" alt="github streak stats" /> 
 </p>
 
 ### Let's talk:
@@ -25,6 +25,8 @@ target="_blank"></a>
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 ![React_Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+![Styled_Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)&nbsp;
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
 
 
@@ -33,6 +35,9 @@ target="_blank"></a>
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)&nbsp;
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)&nbsp;
 ![Storybook](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
+  
 
   
 ![Snake animation](https://github.com/trelcray/trelcray/blob/output/github-contribution-grid-snake.svg)
