@@ -9,7 +9,7 @@
 <br/>
 <br/>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=trelcray&theme=nord&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=trelcray&theme=tokyonight_duo&border_radius=5)](https://git.io/streak-stats)
 </p>
 
 ### Let's talk:
@@ -33,11 +33,6 @@ target="_blank"></a>
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)&nbsp;
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)&nbsp;
 ![Storybook](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)&nbsp;
-
-
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{trelcray}/count.svg" /></p> 
-<br>
 
   
 ![Snake animation](https://github.com/trelcray/trelcray/blob/output/github-contribution-grid-snake.svg)
