@@ -39,9 +39,6 @@ target="_blank"></a>
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
   
 
-  
-![Snake animation](https://github.com/trelcray/trelcray/blob/output/github-contribution-grid-snake.svg)
-
 <br>
 <p align="centre"><b>Visitors Count</b></p>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{trelcray}/count.svg" /></p> 
