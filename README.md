@@ -9,7 +9,7 @@
 <br/>
 <br/>
 <p align="center">
-  <img width="49%" height="195px" src="https://streak-stats.demolab.com/?user=trelcray&theme=github-dark-blue&hide_border=true" alt="github streak stats" /> 
+  [![GitHub Streak](https://streak-stats.demolab.com?user=trelcray&theme=github-dark-blue&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 </p>
 
 ### Let's talk:
