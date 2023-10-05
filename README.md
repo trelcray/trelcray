@@ -8,9 +8,6 @@
 
 <br/>
 <br/>
-<p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=trelcray&theme=github-dark-blue&locale=pt_BR&mode=weekly)](https://git.io/streak-stats)
-</p>
 
 ### Let's talk:
 <a href="https://instagram.com/thaliszambarda" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
