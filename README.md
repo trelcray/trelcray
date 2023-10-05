@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=02297e&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=49A9B7&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Thalis+Zambarda;I'm+23+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=49A9B7&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Thalis+Zambarda;I'm+24+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=trelcray&show_icons=true&count_private=true&hide_border=true&title_color=49a9b7&icon_color=49a9b7&text_color=fff&bg_color=0d1117" alt="Thalis Zambarda github stats" /> 
@@ -9,7 +9,7 @@
 <br/>
 <br/>
 <p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=trelcray&theme=github-dark-blue&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=trelcray&theme=github-dark-blue&locale=pt_BR&mode=weekly)](https://git.io/streak-stats)
 </p>
 
 ### Let's talk:
